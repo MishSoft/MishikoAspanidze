@@ -44,3 +44,6 @@ I'm always open to collaboration and new opportunities. Feel free to reach out:
 - [Twitter](your-twitter-profile-url)
 
 Thanks for visiting! ✨
+
+
+[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=MishSoft&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
